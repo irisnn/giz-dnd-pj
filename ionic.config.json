@@ -1,0 +1,7 @@
+{
+  "name": "RandomPjDnD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
